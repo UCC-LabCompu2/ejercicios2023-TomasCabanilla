@@ -137,7 +137,7 @@ function dibujarImagen(posX,posY){
 x=0;
 dx=2;
 function animarAuto(){
-    var canvas= document.getElementById("myCanvas");
+    var canvas= document.getElementById("myCanvas ");
     var ctx=canvas.getContext("2d");
 
     var img=new Image();
