@@ -86,7 +86,7 @@ function dibujarCirCuad(){
     ctx.fillStyle="#99336b";
     ctx.fill();
 }
-var bandera;
+var bandera ;
 function dibujar(event){
     var canvas=document.getElementById("canvasAdibujar");
     var ctx = canvas.getContext("2d");
