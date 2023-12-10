@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(to right, #024646, #a4188e);
+}
+div {
+    border: 2px dashed #1f1bff;
+    margin: 10px;
+    padding: 5px 30px;
+
+
+    border-radius: 15px;
+    box-shadow: 10px 12px #1a186c;
+}
+h3{
+    text-shadow: 5px 8px #4b4b4b;
+}
+img {
+    width: 50px;
+    float: left;
+}
