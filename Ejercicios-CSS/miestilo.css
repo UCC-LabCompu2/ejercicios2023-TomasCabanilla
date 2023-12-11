@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Gugi',cursive;
     background: linear-gradient(to right, #024646, #a4188e);
 }
 div {
@@ -12,10 +12,12 @@ div {
     border-radius: 15px;
     box-shadow: 10px 12px #1a186c;
 }
-h3{
+div h3{
+    font-family: 'Rubik', sans-serif;
     text-shadow: 5px 8px #4b4b4b;
 }
-img {
+#principal {
     width: 50px;
     float: left;
+    border-radius: 50%;
 }
